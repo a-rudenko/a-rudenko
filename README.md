@@ -1,4 +1,5 @@
-Hi there, I am Aleksey. I work as a web developer with a focus on the backend-end part.
+### Hi there 👋, I'm Aleksey. 
+I work as a web developer with a focus on the backend-end part.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-rudenko&theme=city_lights)
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
